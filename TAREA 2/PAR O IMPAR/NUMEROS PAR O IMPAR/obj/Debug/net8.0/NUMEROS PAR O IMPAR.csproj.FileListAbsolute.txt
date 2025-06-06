@@ -1,0 +1,15 @@
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\bin\Debug\net8.0\NUMEROS PAR O IMPAR.exe
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\bin\Debug\net8.0\NUMEROS PAR O IMPAR.deps.json
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\bin\Debug\net8.0\NUMEROS PAR O IMPAR.runtimeconfig.json
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\bin\Debug\net8.0\NUMEROS PAR O IMPAR.dll
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\bin\Debug\net8.0\NUMEROS PAR O IMPAR.pdb
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\obj\Debug\net8.0\NUMEROS PAR O IMPAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\obj\Debug\net8.0\NUMEROS PAR O IMPAR.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\obj\Debug\net8.0\NUMEROS PAR O IMPAR.AssemblyInfo.cs
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\obj\Debug\net8.0\NUMEROS PAR O IMPAR.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\obj\Debug\net8.0\NUMEROS PAR O IMPAR.sourcelink.json
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\obj\Debug\net8.0\NUMEROS PAR O IMPAR.dll
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\obj\Debug\net8.0\refint\NUMEROS PAR O IMPAR.dll
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\obj\Debug\net8.0\NUMEROS PAR O IMPAR.pdb
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\obj\Debug\net8.0\NUMEROS PAR O IMPAR.genruntimeconfig.cache
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TAREA 2\PAR O IMPAR\NUMEROS PAR O IMPAR\obj\Debug\net8.0\ref\NUMEROS PAR O IMPAR.dll
