@@ -1,0 +1,15 @@
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\bin\Debug\net8.0\Proyecto de Agenda Personal.exe
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\bin\Debug\net8.0\Proyecto de Agenda Personal.deps.json
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\bin\Debug\net8.0\Proyecto de Agenda Personal.runtimeconfig.json
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\bin\Debug\net8.0\Proyecto de Agenda Personal.dll
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\bin\Debug\net8.0\Proyecto de Agenda Personal.pdb
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\obj\Debug\net8.0\Proyecto de Agenda Personal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\obj\Debug\net8.0\Proyecto de Agenda Personal.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\obj\Debug\net8.0\Proyecto de Agenda Personal.AssemblyInfo.cs
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\obj\Debug\net8.0\Proyecto de Agenda Personal.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\obj\Debug\net8.0\Proyecto de Agenda Personal.sourcelink.json
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\obj\Debug\net8.0\Proyecto de Agenda Personal.dll
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\obj\Debug\net8.0\refint\Proyecto de Agenda Personal.dll
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\obj\Debug\net8.0\Proyecto de Agenda Personal.pdb
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\obj\Debug\net8.0\Proyecto de Agenda Personal.genruntimeconfig.cache
+C:\Users\adrie\Desktop\Tareas De Programacion1\TareasdelITLA\TARE 4\Proyecto de Agenda Personal\Proyecto de Agenda Personal\obj\Debug\net8.0\ref\Proyecto de Agenda Personal.dll
